@@ -1,11 +1,36 @@
-wuji
-sdsj
-dhshdjj
-sdsjkdsjjsd
-jsddnnndshds
-sdbsndms
-fengfenghuohuo
-hhhhh
-fuck you ,bitch!
-let's go ,boy!
-abcdefghijklmnopqrstuvwxyz
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..db9fa6b
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# danyu
+diff --git a/dong.txt b/dong.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/feng.txt b/feng.txt
+index 1f7c700..bc586ce 100644
+--- a/feng.txt
++++ b/feng.txt
+@@ -6,3 +6,6 @@ jsddnnndshds
+ sdbsndms
+ fengfenghuohuo
+ hhhhh
++fuck you ,bitch!
++let's go ,boy!
++abcdefghijklmnopqrstuvwxyz
+diff --git a/today.doc b/today.doc
+index 998ebc8..75779f1 100644
+--- a/today.doc
++++ b/today.doc
+@@ -1 +1,10 @@
+ fuck boy,let's ge
++abcdefghijklmnopqrstuvwxyz
++abcdefgjhijklmnopqrstuvwxyz
++ABCDERGHIJKLMNOPQRSTUVWXYZ
++ABCDEFGHIJKLMNOPQRSTUVWXYZ
++ABCDEFGHIJKLMNOPQRSTUVWXYZ
++ABCDEFGHIJKLMNOPQRSTUVWXYZ
++ABCDEFGHIJKLMNOPQRSTUVWXYZ
++
++
