@@ -8,6 +8,6 @@ int main()
       printf("the max value is %d\n",maxNum);
       return 0;
 }
-
+//it just atesting
 
      
