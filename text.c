@@ -1,20 +1,11 @@
-#include <stdio.h>
-    
-int max (int a,int b)
-{ 
-     if(a>b){
-            return a;
- }
-else
-{return b;
-}
-}
+#include<stdio.h>
+#include"max.h"
 int main()
 {   
       int a1=33;
       int a2=21;
       int maxNum=max(a1,a2);
-      printf("the max value is %d",maxNum);
+      printf("the max value is %d\n",maxNum);
       return 0;
 }
 
