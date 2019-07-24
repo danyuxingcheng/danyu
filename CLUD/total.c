@@ -8,7 +8,7 @@ int main()
         sum+=i;
         i++;
       }
-      while(i<=10);
+      while(i<=100);
     printf("他们的和是%d\n",sum);
     return 0;
 }
