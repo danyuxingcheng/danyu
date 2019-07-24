@@ -3,7 +3,7 @@ int main()
 {
     int i;
     float num=1;
-    for(i=1;i<=65;i++){
+    for(i=1;i<=64;i++){
         num=num*2;
     }
     float mj;
