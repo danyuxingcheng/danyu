@@ -8,7 +8,6 @@ feng.o:feng.c
 	gcc feng.c -o feng.o
 total.o:total.c
 	gcc total.c -o total.o
-
 suanfa.out:suan.o
 	./suan.o
 suan.o:suanfa.c
