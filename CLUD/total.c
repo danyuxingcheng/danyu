@@ -3,6 +3,7 @@ int main()
 {
     int i=1,sum;
    scanf("%d\n",&sum);
+    scanf("just for test\n");
      do 
       {
         sum+=i;
